@@ -15,6 +15,7 @@ module.exports = {
     schedule: "./assets/js/schedule.js",
     tickets: "./assets/js/tickets.js",
   },
+
   // Build step creates a series of bundled files, one for each listing in entry object.
   output: {
     filename: "[name].bundle.js",
